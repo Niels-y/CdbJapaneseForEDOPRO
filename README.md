@@ -2,11 +2,11 @@
 
 Card data based on the English card data of YGOPro `Project Ignis`, with Japanese card names and text added to some cards.  
 YGOPro `Project Ignis` の英語カードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
-* Most of the cards that existed by about 2020/09 have been translated.  
-  2020/09くらいまでに存在していたカードはほとんど翻訳されている。
 
 #### note / 備考
 
+* Most of the cards that existed by about 2020/09 have been translated.  
+  2020/09くらいまでに存在していたカードはほとんど翻訳されている。
 * YGOPro other than `Project Ignis` may be used differently or may not be available.  
   `Project Ignis` 以外のYGOProでは使用方法が異なる場合や、使用できない場合がある。
  
