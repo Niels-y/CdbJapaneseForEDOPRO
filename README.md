@@ -18,16 +18,7 @@ Card data based on the English card data of YGOPro `Project Ignis` (`EDOPRO`), w
 
 #### Examples of Translations
 
-* card name: `Ｅ・ＨＥＲＯ フレイム・ウィングマン(Elemental HERO Flame Wingman)`
-* card text:
-```
-「Ｅ・ＨＥＲＯ フェザーマン」＋「Ｅ・ＨＥＲＯ バーストレディ」
-このカードは融合召喚でしか特殊召喚できない。
-①：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。
-そのモンスターの元々の攻撃力分のダメージを相手に与える。
-"Elemental HERO Avian" + "Elemental HERO Burstinatrix"
-Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.
-```
+<img width="221" alt="sample_Flame_Wingman" src="https://user-images.githubusercontent.com/72937182/97049111-183fd600-15b6-11eb-86e0-2e7ebe75cc61.png">
 
 ## Usage
 
