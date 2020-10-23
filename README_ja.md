@@ -2,7 +2,7 @@
 
 # CdbJapaneseForEdopro
 
-ADS `Project Ignis` (`EDOPRO`) の英語カードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
+ADS `Project Ignis` (`EDOPRO`) の英語カードデータをベースに、日本語の名前とテキストを追加したカードデータ。
 
 #### 備考
 
