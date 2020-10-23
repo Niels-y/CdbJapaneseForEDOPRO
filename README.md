@@ -1,3 +1,5 @@
+[日本語](README_ja.md)
+
 # CdbJapaneseForEdopro
 
 Card data based on the English card data of YGOPro `Project Ignis` (`EDOPRO`), with Japanese card names and text added.
