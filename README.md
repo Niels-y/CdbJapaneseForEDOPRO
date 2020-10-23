@@ -1,33 +1,25 @@
 # CdbJapaneseForEdopro
 
-Card data based on the English card data of YGOPro `Project Ignis`, with Japanese card names and text added to some cards.  
-YGOPro `Project Ignis` の英語カードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
+Card data based on the English card data of YGOPro `Project Ignis` (`EDOPRO`), with Japanese card names and text added.  
+YGOPro `Project Ignis` (`EDOPRO`) の英語カードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
 
 #### note / 備考
 
-* Most of the cards that existed by about 2020/09 have been translated.  
-  2020/09くらいまでに存在していたカードはほとんど翻訳されている。
-* YGOPro other than `Project Ignis` may be used differently or may not be available.  
-  `Project Ignis` 以外のYGOProでは使用方法が異なる場合や、使用できない場合がある。
+* The behavior of the effect follows the card data of `Project Ignis`. Therefore, it is expected that it does not interfere with the game on the general server of `Project Ignis`.  
+  効果の挙動は`Project Ignis`のカードデータに従っている。そのため、`Project Ignis` の一般サーバー上ではゲームに支障をきたすことはないと考えられる。
  
 #### Untranslated cards / 翻訳されていないカード
 
-1. Missing cards in the Japanese card data  
-   日本語のカードデータに欠落しているカード
-   * e.g.《Datascape Rabbit - TuTu》《電脳堺嫦－兎々》
-1. Cards with different internal-ID for Japanese card data and English card data  
-   日本語のカードデータと英語のカードデータの内部IDが異なるカード
+1. Cards not yet been added to the Japanese card data for translation
+   翻訳用日本語カードデータにまだ追加されていないカード
+1. Cards with different internal-ID for Japanese card data for translation and English card data  
+   翻訳用日本語カードデータと英語カードデータの内部IDが異なるカード
    * e.g. ID change with the release of pre-release cards  
      例. プレリリースカードのリリースに伴うID変更
-   * e.g. Cards with an internal ID for each of the multiple illustrations  
-     例. 複数のイラストのそれぞれに内部IDが付与されたカード
+   * e.g. Cards with an internal ID for each of the multiple illustrations (could be both translated-illustrations and untranslated-illustrations)  
+     例. 複数のイラストのそれぞれに内部IDが付与されたカード (翻訳されたイラストと翻訳されていないイラストの両方があるかもしれない)
 1. Other Reasons  
    その他の理由
-
-#### Card data used for translation / 翻訳に使用したカードデータ
-
-* Japanese card data: YGOPro `hollow`, on **Before and after support was discontinued** / **サポート停止前後**
-* English card data: YGOPro `Project Ignis`, on **2020/10/19**
 
 #### Examples of Translations / 翻訳の例
 
