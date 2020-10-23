@@ -1,3 +1,5 @@
+[英語](README.md)
+
 # CdbJapaneseForEdopro
 
 YGOPro `Project Ignis` (`EDOPRO`) の英語カードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
