@@ -1,4 +1,4 @@
-[英語](README.md)
+[English](README.md)
 
 # CdbJapaneseForEdopro
 
