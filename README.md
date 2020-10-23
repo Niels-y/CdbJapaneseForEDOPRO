@@ -11,7 +11,7 @@ Card data based on the English card data of YGOPro `Project Ignis` (`EDOPRO`), w
 #### Untranslated cards / 翻訳されていないカード
 
 1. Cards not yet been added to the Japanese card data for translation  
-   (ja)(ja)翻訳用日本語カードデータにまだ追加されていないカード
+   (ja)翻訳用日本語カードデータにまだ追加されていないカード
 1. Cards with different internal-ID for Japanese card data for translation and English card data  
    (ja)翻訳用日本語カードデータと英語カードデータの内部IDが異なるカード
    * e.g. ID change with the release of pre-release cards  
@@ -52,7 +52,7 @@ Content to be added / 追加する内容
 			"repo_path": "./repositories/japanese",
 			"has_core": false,
 			"core_path": "",
-			"data_path": "",
+			"data_path": "data",
 			"script_path": "",
 			"should_update": true,
 			"should_read": true
