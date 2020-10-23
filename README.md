@@ -45,6 +45,7 @@ Must be Fusion Summoned and cannot be Special Summoned by other ways. When this 
 
 Content to be added / 追加する内容
   ```
+  
 		{
 			"url": "https://github.com/Niels-y/CdbJapaneseForEdopro",
 			"repo_name": "Japanese CardData",
@@ -79,13 +80,15 @@ How to delete translation card data
 * card name
 * card text
 
+That's all.
+
 ## supplement / 補足
 * Card names and text are in both Japanese and English for the following reasons.  
   カード名とテキストは、以下の理由で日本語と英語の両方がある。
   * Some cards have not been translated. Untranslated cards cannot be searched in Japanese, but can be searched in English. Therefore, the English card names and text are left behind.  
     翻訳されていないカードもある。未翻訳のカードは日本語では検索できないが、英語では検索できる。そのため、英語のカード名とテキストは残している。
-* If the English YGOPro has been changed from the translation card data, it will probably be reflected in the following way.  
-  翻訳カードのデータから英語のYGOProが変更されている場合、おそらく以下のように反映される。
+* If the current `Project Ignis` card data has changed since the translation, it will probably be reflected as follows.  
+  現在の`Project Ignis`のカードデータが翻訳後に変更されている場合は、おそらく以下のように反映される。
   * atk, category: not reflected. They remain fixed to those of the translation card data.  
     攻撃力、カテゴリ: 反映されない。翻訳カードデータに固定されたまま。
   * effect: reflected. The latest behavior of `Project Ignis`.  
